@@ -5,6 +5,26 @@ A entrada contém apenas 1 caso de teste. A primeira linha de entrada contem um 
 
 Saída
 Imprima a saída de acordo com o exemplo fornecido abaixo, indicando quantas vezes cada um deles aparece na entrada por ordem crescente de valor.
+
+
+Exemplos de Entrada	
+
+7
+8
+10
+8
+260
+4
+10
+10
+
+Exemplos de Saída
+
+4 aparece 1 vez(es)
+8 aparece 2 vez(es)
+10 aparece 3 vez(es)
+260 aparece 1 vez(es)
+
 */
 
 #include <stdio.h>
